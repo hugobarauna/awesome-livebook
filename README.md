@@ -26,7 +26,9 @@ An Awesome List about awesome [Livebook](https://livebook.dev/) related things.
 
 - **[Dockyard Academy](https://github.com/DockYard-Academy/curriculum)**   ![Community](https://img.shields.io/badge/Community-green) 
 
-- **[Oban Training](https://github.com/sorentwo/oban_training)** - 📓 Oban Training curriculum derived from in-person training at Elixirconf 2023  - _Tags: Oban_  ![Community](https://img.shields.io/badge/Community-green) 
+- **[Oban Training](https://github.com/sorentwo/oban_training)** - 📓 Oban Training curriculum derived from in-person training at Elixirconf 2023  - _Tags: Oban_  ![Community](https://img.shields.io/badge/Community-green)
+
+-  **[Elixir Secure Coding Training](https://github.com/podium/elixir-secure-coding)** - An all-encompassing, opinionated cybersecurity curriculum designed for enterprise use at software companies using the Elixir programming language. ![Community](https://img.shields.io/badge/Community-green) 
 
 
 ## Kinos
